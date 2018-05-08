@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Variancepartition on Computational Psychiatric Genomics</title>
+    <title>Variancepartition on Computational Genomics of the Human Brain</title>
     <link>gabrielhoffman.github.io/tags/variancepartition/</link>
-    <description>Recent content in Variancepartition on Computational Psychiatric Genomics</description>
+    <description>Recent content in Variancepartition on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Gabriel Hoffman</copyright>
+    <copyright>&amp;copy; 2018 Gabriel Hoffman (02/26/2018)</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="gabrielhoffman.github.io/tags/variancepartition/" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>lrgpr</title>
-      <link>gabrielhoffman.github.io/project/lrgpr/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>gabrielhoffman.github.io/project/lrgpr/</guid>
-      <description>&lt;p&gt;Description&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="gabrielhoffman.github.io/tags/variancepartition/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>variancePartition</title>
@@ -26,8 +18,16 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/variancepartition/</guid>
-      <description>&lt;p&gt;Description&lt;/p&gt;
-</description>
+      <description>Description</description>
+    </item>
+    
+    <item>
+      <title>variancePartition</title>
+      <link>gabrielhoffman.github.io/software/variancepartition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/software/variancepartition/</guid>
+      <description>Description</description>
     </item>
     
   </channel>

@@ -1,28 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Computational Psychiatric Genomics</title>
+    <title>Publications on Computational Genomics of the Human Brain</title>
     <link>gabrielhoffman.github.io/publication/</link>
-    <description>Recent content in Publications on Computational Psychiatric Genomics</description>
+    <description>Recent content in Publications on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Gabriel Hoffman</copyright>
+    <copyright>&amp;copy; 2018 Gabriel Hoffman (02/26/2018)</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="gabrielhoffman.github.io/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="gabrielhoffman.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>EpiMap</title>
+      <title>Functional Interpretation of Genetic Variants Using Deep Learning Predicts Impact on Epigenome</title>
+      <link>gabrielhoffman.github.io/deepfigv.mssm.edu</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/deepfigv.mssm.edu</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell-specific histone modification maps link schizophrenia risk to the neuronal epigenome</title>
       <link>gabrielhoffman.github.io/publication/epimap_2017/</link>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/publication/epimap_2017/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>New considerations for hiPSC-based models of neuropsychiatric disorders</title>
+      <link>gabrielhoffman.github.io/publication/mol_psych_2018/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/publication/mol_psych_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping regulatory variants in hiPSC models</title>
+      <link>gabrielhoffman.github.io/publication/ng_nv_2017/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/publication/ng_nv_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Transcriptional signatures of schizophrenia in hiPSC-derived NPCs and neurons are concordant with signatures from post mortem adult brains</title>
       <link>gabrielhoffman.github.io/publication/hipsc_2017/</link>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/publication/hipsc_2017/</guid>
       <description></description>

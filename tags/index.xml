@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Computational Psychiatric Genomics</title>
+    <title>Tags on Computational Genomics of the Human Brain</title>
     <link>gabrielhoffman.github.io/tags/</link>
-    <description>Recent content in Tags on Computational Psychiatric Genomics</description>
+    <description>Recent content in Tags on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Gabriel Hoffman</copyright>
+    <copyright>&amp;copy; 2018 Gabriel Hoffman (02/26/2018)</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="gabrielhoffman.github.io/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="gabrielhoffman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
@@ -16,8 +18,16 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Epigenomics</title>
+      <link>gabrielhoffman.github.io/tags/epigenomics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/tags/epigenomics/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -35,6 +45,42 @@
       <pubDate>Mon, 10 Mar 2014 00:00:00 -0400</pubDate>
       
       <guid>gabrielhoffman.github.io/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lrgpr</title>
+      <link>gabrielhoffman.github.io/tags/lrgpr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/tags/lrgpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>gabrielhoffman.github.io/tags/research/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource</title>
+      <link>gabrielhoffman.github.io/tags/resource/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/tags/resource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>gabrielhoffman.github.io/tags/software/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/tags/software/</guid>
       <description></description>
     </item>
     

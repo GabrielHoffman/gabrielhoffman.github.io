@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Computational Psychiatric Genomics</title>
+    <title>Projects on Computational Genomics of the Human Brain</title>
     <link>gabrielhoffman.github.io/project/</link>
-    <description>Recent content in Projects on Computational Psychiatric Genomics</description>
+    <description>Recent content in Projects on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Gabriel Hoffman</copyright>
+    <copyright>&amp;copy; 2018 Gabriel Hoffman (02/26/2018)</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="gabrielhoffman.github.io/project/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="gabrielhoffman.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data and code resources for an hiPSC model</title>
+      <link>gabrielhoffman.github.io/project/hipsc_dataset/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/project/hipsc_dataset/</guid>
+      <description>Description</description>
+    </item>
+    
+    <item>
+      <title>Design hiPSC experiments</title>
+      <link>gabrielhoffman.github.io/project/hipsc_study_design/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/project/hipsc_study_design/</guid>
+      <description>Description</description>
+    </item>
     
     <item>
       <title>variancePartition</title>
@@ -16,8 +36,16 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/variancepartition/</guid>
-      <description>&lt;p&gt;Description&lt;/p&gt;
-</description>
+      <description>Description</description>
+    </item>
+    
+    <item>
+      <title>Epigenomics</title>
+      <link>gabrielhoffman.github.io/project/epigenomics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/project/epigenomics/</guid>
+      <description>Description</description>
     </item>
     
     <item>
@@ -26,8 +54,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/lrgpr/</guid>
-      <description>&lt;p&gt;Description&lt;/p&gt;
-</description>
+      <description>Description</description>
     </item>
     
   </channel>
