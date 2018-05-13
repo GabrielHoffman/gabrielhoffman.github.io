@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Gabriel Hoffman (05/8/2018)</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/tags/resource/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DeepFIGV</title>
+      <link>gabrielhoffman.github.io/project/deepfigv/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/project/deepfigv/</guid>
+      <description>Description</description>
+    </item>
     
     <item>
       <title>Data and code resources for an hiPSC model</title>
