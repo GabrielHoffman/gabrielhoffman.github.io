@@ -6,11 +6,38 @@
     <description>Recent content in Software on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Gabriel Hoffman (08/14/2018)</copyright>
+    <copyright>&amp;copy; 2018 Gabriel Hoffman (10/8/2018)</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dream</title>
+      <link>gabrielhoffman.github.io/project/dream/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/project/dream/</guid>
+      <description>Description</description>
+    </item>
+    
+    <item>
+      <title>variancePartition</title>
+      <link>gabrielhoffman.github.io/project/variancepartition/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/project/variancepartition/</guid>
+      <description>Description</description>
+    </item>
+    
+    <item>
+      <title>variancePartition</title>
+      <link>gabrielhoffman.github.io/software/test_variancepartition/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/software/test_variancepartition/</guid>
+      <description>Description</description>
+    </item>
     
     <item>
       <title>lrgpr</title>
@@ -23,28 +50,10 @@
     
     <item>
       <title>lrgpr</title>
-      <link>gabrielhoffman.github.io/software/lrgpr/</link>
+      <link>gabrielhoffman.github.io/software/test_lrgpr/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/software/lrgpr/</guid>
-      <description>Description</description>
-    </item>
-    
-    <item>
-      <title>variancePartition</title>
-      <link>gabrielhoffman.github.io/project/variancepartition/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>gabrielhoffman.github.io/project/variancepartition/</guid>
-      <description>Description</description>
-    </item>
-    
-    <item>
-      <title>variancePartition</title>
-      <link>gabrielhoffman.github.io/software/variancepartition/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>gabrielhoffman.github.io/software/variancepartition/</guid>
+      <guid>gabrielhoffman.github.io/software/test_lrgpr/</guid>
       <description>Description</description>
     </item>
     

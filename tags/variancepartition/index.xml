@@ -6,8 +6,8 @@
     <description>Recent content in Variancepartition on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Gabriel Hoffman (08/14/2018)</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018 Gabriel Hoffman (10/8/2018)</copyright>
+    <lastBuildDate>Fri, 27 May 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/tags/variancepartition/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>variancePartition</title>
       <link>gabrielhoffman.github.io/project/variancepartition/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/variancepartition/</guid>
       <description>Description</description>
@@ -23,10 +23,10 @@
     
     <item>
       <title>variancePartition</title>
-      <link>gabrielhoffman.github.io/software/variancepartition/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <link>gabrielhoffman.github.io/software/test_variancepartition/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/software/variancepartition/</guid>
+      <guid>gabrielhoffman.github.io/software/test_variancepartition/</guid>
       <description>Description</description>
     </item>
     

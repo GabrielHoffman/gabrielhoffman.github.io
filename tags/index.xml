@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Gabriel Hoffman (08/14/2018)</copyright>
+    <copyright>&amp;copy; 2018 Gabriel Hoffman (10/8/2018)</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,15 @@
       
       <guid>gabrielhoffman.github.io/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Dream</title>
+      <link>gabrielhoffman.github.io/tags/dream/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/tags/dream/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -87,7 +96,7 @@
     <item>
       <title>Variancepartition</title>
       <link>gabrielhoffman.github.io/tags/variancepartition/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/tags/variancepartition/</guid>
       <description></description>
