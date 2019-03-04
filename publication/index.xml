@@ -6,11 +6,20 @@
     <description>Recent content in Publications on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Gabriel Hoffman (10/8/2018)</copyright>
+    <copyright>&amp;copy; 2019 Gabriel Hoffman (3/4/2019)</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>decorate: Differential Epigenetic Coregulation Test</title>
+      <link>gabrielhoffman.github.io/publication/decorate/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/publication/decorate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>dream: Powerful differential expression analysis for repeated measures designs</title>

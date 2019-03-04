@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>gabrielhoffman.github.io/project/decorate/</loc>
+      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>gabrielhoffman.github.io/project/dream/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -88,6 +97,15 @@
     
       <loc>gabrielhoffman.github.io/software/test_lrgpr/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/publication/decorate/</loc>
+      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -266,14 +284,6 @@
     
     <url>
     
-      <loc>gabrielhoffman.github.io/external_html/decorate_example2/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>gabrielhoffman.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -284,7 +294,17 @@
     <url>
     
       <loc>gabrielhoffman.github.io/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/decorate/</loc>
+      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -305,15 +325,6 @@
     
       <loc>gabrielhoffman.github.io/tags/epigenomics/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/external_html/</loc>
       <priority>0</priority>
     </url>
     
@@ -353,7 +364,7 @@
     <url>
     
       <loc>gabrielhoffman.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -393,7 +404,7 @@
     <url>
     
       <loc>gabrielhoffman.github.io/tags/software/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

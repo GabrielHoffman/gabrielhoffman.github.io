@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Gabriel Hoffman (10/8/2018)</copyright>
+    <copyright>&amp;copy; 2019 Gabriel Hoffman (3/4/2019)</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,15 @@
       
       <guid>gabrielhoffman.github.io/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Decorate</title>
+      <link>gabrielhoffman.github.io/tags/decorate/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/tags/decorate/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -87,7 +96,7 @@
     <item>
       <title>Software</title>
       <link>gabrielhoffman.github.io/tags/software/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/tags/software/</guid>
       <description></description>
