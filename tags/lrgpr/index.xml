@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lrgpr on Computational Genomics of the Human Brain</title>
+    <title>lrgpr on Computational Genomics of the Human Brain</title>
     <link>gabrielhoffman.github.io/tags/lrgpr/</link>
-    <description>Recent content in Lrgpr on Computational Genomics of the Human Brain</description>
+    <description>Recent content in lrgpr on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Gabriel Hoffman (3/4/2019)</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/lrgpr/</guid>
-      <description>Description</description>
+      <description>Interactive linear mixed model analysis of genome-wide association studies with composite hypothesis testing and regression diagnostics in R</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/software/test_lrgpr/</guid>
-      <description>Description</description>
+      <description>Interactive linear mixed model analysis of genome-wide association studies with composite hypothesis testing and regression diagnostics in R</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekyll on Computational Genomics of the Human Brain</title>
+    <title>jekyll on Computational Genomics of the Human Brain</title>
     <link>gabrielhoffman.github.io/tags/jekyll/</link>
-    <description>Recent content in Jekyll on Computational Genomics of the Human Brain</description>
+    <description>Recent content in jekyll on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Gabriel Hoffman (3/4/2019)</copyright>
@@ -18,8 +18,7 @@
       <pubDate>Mon, 10 Mar 2014 00:00:00 -0400</pubDate>
       
       <guid>gabrielhoffman.github.io/post/migrate-from-jekyll/</guid>
-      <description>Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s getting started guide.
-Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like</description>
+      <description>Learn how to migrate an existing website from Jekyll to Hugo.</description>
     </item>
     
   </channel>

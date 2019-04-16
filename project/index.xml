@@ -18,7 +18,7 @@
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/decorate/</guid>
-      <description>Description</description>
+      <description>decorate: Differential Epigenetic Coregeulation Test</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/dream/</guid>
-      <description>Description</description>
+      <description>dream: Powerful differential expression analysis for repeated measures designs</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/deepfigv/</guid>
-      <description>Description</description>
+      <description>Functional Interpretation of Genetic Variants Using Deep Learning Predicts Impact on Epigenome.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/variancepartition/</guid>
-      <description>Description</description>
+      <description>Interpreting drivers of variation in complex gene expression studies with linear mixed models</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/hipsc_dataset/</guid>
-      <description>Description</description>
+      <description>RNA-seq data from hiPSC-derived neural progenitor cells and neurons from controls and patients with childhood onset schizophrenia</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/hipsc_study_design/</guid>
-      <description>Description</description>
+      <description>Design powerful transcriptome experiments given cost constraints</description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/epigenomics/</guid>
-      <description>Description</description>
+      <description>PsychENCODE</description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/lrgpr/</guid>
-      <description>Description</description>
+      <description>Interactive linear mixed model analysis of genome-wide association studies with composite hypothesis testing and regression diagnostics in R</description>
     </item>
     
   </channel>

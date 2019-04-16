@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on Computational Genomics of the Human Brain</title>
+    <title>research on Computational Genomics of the Human Brain</title>
     <link>gabrielhoffman.github.io/tags/research/</link>
-    <description>Recent content in Research on Computational Genomics of the Human Brain</description>
+    <description>Recent content in research on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Gabriel Hoffman (3/4/2019)</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/epigenomics/</guid>
-      <description>Description</description>
+      <description>PsychENCODE</description>
     </item>
     
   </channel>
