@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Gabriel Hoffman (3/4/2019)</copyright>
+    <copyright>&amp;copy; 2019 Gabriel Hoffman (7/12/2019)</copyright>
     <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/project/index.xml" rel="self" type="application/rss+xml" />
@@ -64,6 +64,15 @@
       
       <guid>gabrielhoffman.github.io/project/hipsc_study_design/</guid>
       <description>Design powerful transcriptome experiments given cost constraints</description>
+    </item>
+    
+    <item>
+      <title>Referance map of human brain epigenome</title>
+      <link>gabrielhoffman.github.io/project/epimap_resource/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/project/epimap_resource/</guid>
+      <description>Data from ChIP-seq for H3K4me3 (promoters) and H3K27ac (enhancers and promoters) from 2 brain regions from 17 individuals</description>
     </item>
     
     <item>

@@ -67,6 +67,15 @@
     
     <url>
     
+      <loc>gabrielhoffman.github.io/project/epimap_resource/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>gabrielhoffman.github.io/resource/hipsc_study_design/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -116,15 +125,6 @@
       <loc>gabrielhoffman.github.io/project/</loc>
       <lastmod>2019-03-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/publication/</loc>
-      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -244,7 +244,25 @@
     
     <url>
     
+      <loc>gabrielhoffman.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>gabrielhoffman.github.io/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -333,15 +351,6 @@
     <url>
     
       <loc>gabrielhoffman.github.io/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/post/</loc>
       <lastmod>2017-09-03T00:00:00-04:00</lastmod>
     </url>
     
