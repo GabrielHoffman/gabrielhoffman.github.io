@@ -22,6 +22,15 @@
     
     <url>
     
+      <loc>gabrielhoffman.github.io/project/cmc2_resource/</loc>
+      <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>gabrielhoffman.github.io/project/deepfigv/</loc>
       <lastmod>2018-05-12T00:00:00+00:00</lastmod>
     </url>
@@ -112,8 +121,17 @@
     
     <url>
     
+      <loc>gabrielhoffman.github.io/publication/cmc2/</loc>
+      <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>gabrielhoffman.github.io/</loc>
-      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+      <lastmod>2019-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -123,7 +141,7 @@
     <url>
     
       <loc>gabrielhoffman.github.io/project/</loc>
-      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+      <lastmod>2019-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -133,8 +151,27 @@
     <url>
     
       <loc>gabrielhoffman.github.io/tags/</loc>
-      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+      <lastmod>2019-09-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/resource/</loc>
+      <lastmod>2019-09-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/publication/deepfigv/</loc>
+      <lastmod>2019-09-23T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -182,25 +219,6 @@
     
       <loc>gabrielhoffman.github.io/publication/dream/</loc>
       <lastmod>2018-10-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/tags/resource/</loc>
-      <lastmod>2018-05-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/publication/deepfigv/</loc>
-      <lastmod>2018-05-06T00:00:00+00:00</lastmod>
     </url>
     
   

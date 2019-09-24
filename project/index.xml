@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Gabriel Hoffman (7/12/2019)</copyright>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -28,6 +28,15 @@
       
       <guid>gabrielhoffman.github.io/project/dream/</guid>
       <description>dream: Powerful differential expression analysis for repeated measures designs</description>
+    </item>
+    
+    <item>
+      <title>CommonMind Consortium provides transcriptomic and epigenomic data for Schizophrenia and Bipolar Disorder</title>
+      <link>gabrielhoffman.github.io/project/cmc2_resource/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/project/cmc2_resource/</guid>
+      <description>Public resource of functional genomic data from the dorsolateral prefrontal cortex (DLPFC; Brodmann areas 9 and 46): RNA-seq and SNP genotypes on 980 individuals, and ATAC-seq on 269 individuals from 4 separate brain banks.</description>
     </item>
     
     <item>
