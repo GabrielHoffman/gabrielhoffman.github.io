@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Gabriel Hoffman (7/12/2019)</copyright>
+    <copyright>&amp;copy; 2019 Gabriel Hoffman (09/24/2019)</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/home/about/</guid>
-      <description>I aim to map the chain of causality from DNA variants through epigenetic variation to clinical phenotype. I use sophisticated statistical models and high performance computing to study the link between genetic risk variants, functional genomics and psychiatric disease.</description>
+      <description>Working with the Roussos Lab in the Sklar Division of Psychiatric Genomics, we aim to map the chain of causality from DNA variants through epigenetic variation to clinical phenotype. We use sophisticated statistical models and high performance computing to study the link between genetic risk variants, functional genomics and psychiatric disease.</description>
     </item>
     
     <item>
