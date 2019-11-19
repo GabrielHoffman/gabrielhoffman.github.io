@@ -6,8 +6,8 @@
     <description>Recent content in Projects on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Gabriel Hoffman (09/24/2019)</copyright>
-    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Gabriel Hoffman (11/19/2019)</copyright>
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/decorate/</guid>
-      <description>decorate: Differential Epigenetic Coregeulation Test</description>
+      <description>Description</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/dream/</guid>
-      <description>dream: Powerful differential expression analysis for repeated measures designs</description>
+      <description>Description</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/cmc2_resource/</guid>
-      <description>Public resource of functional genomic data from the dorsolateral prefrontal cortex (DLPFC; Brodmann areas 9 and 46): RNA-seq and SNP genotypes on 980 individuals, and ATAC-seq on 269 individuals from 4 separate brain banks.</description>
+      <description>Description</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/deepfigv/</guid>
-      <description>Functional Interpretation of Genetic Variants Using Deep Learning Predicts Impact on Epigenome.</description>
+      <description>Description</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@
       <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/variancepartition/</guid>
-      <description>Interpreting drivers of variation in complex gene expression studies with linear mixed models</description>
+      <description>Description</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/hipsc_dataset/</guid>
-      <description>RNA-seq data from hiPSC-derived neural progenitor cells and neurons from controls and patients with childhood onset schizophrenia</description>
+      <description>Description</description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/hipsc_study_design/</guid>
-      <description>Design powerful transcriptome experiments given cost constraints</description>
+      <description>Description</description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/epimap_resource/</guid>
-      <description>Data from ChIP-seq for H3K4me3 (promoters) and H3K27ac (enhancers and promoters) from 2 brain regions from 17 individuals</description>
+      <description>Description</description>
     </item>
     
     <item>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/epigenomics/</guid>
-      <description>PsychENCODE</description>
+      <description>Description</description>
     </item>
     
     <item>
@@ -99,7 +99,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/lrgpr/</guid>
-      <description>Interactive linear mixed model analysis of genome-wide association studies with composite hypothesis testing and regression diagnostics in R</description>
+      <description>Description</description>
     </item>
     
   </channel>

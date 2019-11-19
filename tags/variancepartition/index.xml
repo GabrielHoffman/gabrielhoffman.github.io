@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>variancePartition on Computational Genomics of the Human Brain</title>
+    <title>Variancepartition on Computational Genomics of the Human Brain</title>
     <link>gabrielhoffman.github.io/tags/variancepartition/</link>
-    <description>Recent content in variancePartition on Computational Genomics of the Human Brain</description>
+    <description>Recent content in Variancepartition on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Gabriel Hoffman (09/24/2019)</copyright>
+    <copyright>&amp;copy; 2019 Gabriel Hoffman (11/19/2019)</copyright>
     <lastBuildDate>Fri, 27 May 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/tags/variancepartition/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/variancepartition/</guid>
-      <description>Interpreting drivers of variation in complex gene expression studies with linear mixed models</description>
+      <description>Description</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/software/test_variancepartition/</guid>
-      <description>Interpreting drivers of variation in complex gene expression studies with linear mixed models</description>
+      <description>Description</description>
     </item>
     
   </channel>

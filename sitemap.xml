@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
@@ -121,16 +122,6 @@
     
     <url>
     
-      <loc>gabrielhoffman.github.io/</loc>
-      <lastmod>2019-09-23T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>gabrielhoffman.github.io/publication/deepfigv/</loc>
       <lastmod>2019-09-23T00:00:00+00:00</lastmod>
     </url>
@@ -149,58 +140,8 @@
     
     <url>
     
-      <loc>gabrielhoffman.github.io/project/</loc>
-      <lastmod>2019-09-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/tags/</loc>
-      <lastmod>2019-09-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/tags/resource/</loc>
-      <lastmod>2019-09-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/tags/decorate/</loc>
-      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>gabrielhoffman.github.io/publication/decorate/</loc>
       <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/tags/software/</loc>
-      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -298,88 +239,8 @@
     
     <url>
     
-      <loc>gabrielhoffman.github.io/software/</loc>
-      <lastmod>2016-05-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/tags/variancepartition/</loc>
-      <lastmod>2016-05-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/tags/epigenomics/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/resource/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/tags/dream/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/tags/lrgpr/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/tags/research/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>gabrielhoffman.github.io/post/getting-started/</loc>
       <lastmod>2017-09-03T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>gabrielhoffman.github.io/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00-04:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -432,16 +293,6 @@
     
     <url>
     
-      <loc>gabrielhoffman.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>gabrielhoffman.github.io/publication/pone_2013/</loc>
       <lastmod>2013-10-28T00:00:00+00:00</lastmod>
     </url>
@@ -461,6 +312,156 @@
     <url>
     
       <loc>gabrielhoffman.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/</loc>
+      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/decorate/</loc>
+      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/dream/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/epigenomics/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/hugo/</loc>
+      <lastmod>2017-09-03T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/lrgpr/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/project/</loc>
+      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/research/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/resource/</loc>
+      <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/resource/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/software/</loc>
+      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/software/</loc>
+      <lastmod>2016-05-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>gabrielhoffman.github.io/tags/variancepartition/</loc>
+      <lastmod>2016-05-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

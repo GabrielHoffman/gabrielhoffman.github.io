@@ -6,7 +6,7 @@
     <description>Recent content in Content tagged as &#39;Academic&#39; on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Gabriel Hoffman (09/24/2019)</copyright>
+    <copyright>&amp;copy; 2019 Gabriel Hoffman (11/19/2019)</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>gabrielhoffman.github.io/post/getting-started/</guid>
-      <description>Create a beautifully simple personal or academic website in under 10 minutes.</description>
+      <description>The Academic framework enables you to easily create a beautifully simple personal or academic website using the Hugo static site generator.
+Key features:
+ Easily manage your homepage, blog posts, publications, talks, and projects Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact Need a different section? Just use the Custom widget! Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Table of Contents    Installation Getting Started  Core parameters Introduce yourself Customize the homepage Add your content Remove unused widgets and pages Customization &amp;amp; updating  Advanced customization  Navigation menu Website icon Theme color (CSS) Analytics Third party and local scripts (JS) Language and translation Permalinks  Updating Feedback &amp;amp; Contributing License    Installation  Install Hugo and create a new website by typing the following commands in your Terminal or Command Prompt app:</description>
     </item>
     
     <item>
@@ -27,7 +29,8 @@
       <pubDate>Tue, 19 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>gabrielhoffman.github.io/post/widgets/</guid>
-      <description>Enable/disable and configure widgets to customize your homepage.</description>
+      <description>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:
+ About/biography Selected publications Recent publications Recent news/blog posts Projects Selected talks Recent talks Contact Tag cloud Custom widget (demonstrated with the teaching example)  The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&amp;rsquo;t need and customize the parameters of the widgets you wish to keep.</description>
     </item>
     
     <item>

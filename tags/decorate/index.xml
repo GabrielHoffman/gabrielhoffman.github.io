@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>decorate on Computational Genomics of the Human Brain</title>
+    <title>Decorate on Computational Genomics of the Human Brain</title>
     <link>gabrielhoffman.github.io/tags/decorate/</link>
-    <description>Recent content in decorate on Computational Genomics of the Human Brain</description>
+    <description>Recent content in Decorate on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Gabriel Hoffman (09/24/2019)</copyright>
+    <copyright>&amp;copy; 2019 Gabriel Hoffman (11/19/2019)</copyright>
     <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="gabrielhoffman.github.io/tags/decorate/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/project/decorate/</guid>
-      <description>decorate: Differential Epigenetic Coregeulation Test</description>
+      <description>Description</description>
     </item>
     
   </channel>
