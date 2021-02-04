@@ -13,6 +13,7 @@
     
     
     <item>
+<<<<<<< HEAD
       <title>Trans-ethnic eQTL meta-analysis of human brain reveals regulatory architecture and candidate causal variants for brain-related traits</title>
       <link>gabrielhoffman.github.io/publication/brema/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
@@ -36,6 +37,13 @@
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>gabrielhoffman.github.io/publication/cmc_sex_2021/</guid>
+=======
+      <title>Sex differences in the human brain transcriptome of cases with schizophrenia</title>
+      <link>gabrielhoffman.github.io/publication/cmc_sex/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>gabrielhoffman.github.io/publication/cmc_sex/</guid>
+>>>>>>> cb4deef1f106aba7278ea96d96500eb77ab22236
       <description></description>
     </item>
     
