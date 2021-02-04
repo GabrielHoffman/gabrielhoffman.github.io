@@ -23,6 +23,15 @@
     
     <url>
     
+      <loc>gabrielhoffman.github.io/project/brema/</loc>
+      <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>gabrielhoffman.github.io/project/cmc2_resource/</loc>
       <lastmod>2019-09-22T00:00:00+00:00</lastmod>
     </url>
@@ -122,7 +131,6 @@
     
     <url>
     
-<<<<<<< HEAD
       <loc>gabrielhoffman.github.io/publication/brema/</loc>
       <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     </url>
@@ -143,10 +151,6 @@
     
       <loc>gabrielhoffman.github.io/publication/cmc_sex_2021/</loc>
       <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-=======
-      <loc>gabrielhoffman.github.io/publication/cmc_sex/</loc>
-      <lastmod>2020-10-07T00:00:00+00:00</lastmod>
->>>>>>> cb4deef1f106aba7278ea96d96500eb77ab22236
     </url>
     
   
@@ -443,7 +447,7 @@
     <url>
     
       <loc>gabrielhoffman.github.io/tags/resource/</loc>
-      <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+      <lastmod>2021-02-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
