@@ -2,112 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Computational Genomics of the Human Brain</title>
-    <link>gabrielhoffman.github.io/tags/</link>
+    <link>https://gabrielhoffman.github.io/tags/</link>
     <description>Recent content in Tags on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Gabriel Hoffman (Feb 3, 2021)</copyright>
+    <copyright>&amp;copy; 2021 Gabriel Hoffman (April 2, 2021)</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="gabrielhoffman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gabrielhoffman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>gabrielhoffman.github.io/tags/academic/</link>
+      <link>https://gabrielhoffman.github.io/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/tags/academic/</guid>
+      <guid>https://gabrielhoffman.github.io/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Decorate</title>
-      <link>gabrielhoffman.github.io/tags/decorate/</link>
+      <link>https://gabrielhoffman.github.io/tags/decorate/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/tags/decorate/</guid>
+      <guid>https://gabrielhoffman.github.io/tags/decorate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dream</title>
-      <link>gabrielhoffman.github.io/tags/dream/</link>
+      <link>https://gabrielhoffman.github.io/tags/dream/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/tags/dream/</guid>
+      <guid>https://gabrielhoffman.github.io/tags/dream/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epigenomics</title>
-      <link>gabrielhoffman.github.io/tags/epigenomics/</link>
+      <link>https://gabrielhoffman.github.io/tags/epigenomics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/tags/epigenomics/</guid>
+      <guid>https://gabrielhoffman.github.io/tags/epigenomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>gabrielhoffman.github.io/tags/hugo/</link>
+      <link>https://gabrielhoffman.github.io/tags/hugo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>gabrielhoffman.github.io/tags/hugo/</guid>
+      <guid>https://gabrielhoffman.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>gabrielhoffman.github.io/tags/jekyll/</link>
+      <link>https://gabrielhoffman.github.io/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 -0400</pubDate>
       
-      <guid>gabrielhoffman.github.io/tags/jekyll/</guid>
+      <guid>https://gabrielhoffman.github.io/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lrgpr</title>
-      <link>gabrielhoffman.github.io/tags/lrgpr/</link>
+      <link>https://gabrielhoffman.github.io/tags/lrgpr/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/tags/lrgpr/</guid>
+      <guid>https://gabrielhoffman.github.io/tags/lrgpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>gabrielhoffman.github.io/tags/research/</link>
+      <link>https://gabrielhoffman.github.io/tags/research/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/tags/research/</guid>
+      <guid>https://gabrielhoffman.github.io/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resource</title>
-      <link>gabrielhoffman.github.io/tags/resource/</link>
+      <link>https://gabrielhoffman.github.io/tags/resource/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/tags/resource/</guid>
+      <guid>https://gabrielhoffman.github.io/tags/resource/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>gabrielhoffman.github.io/tags/software/</link>
+      <link>https://gabrielhoffman.github.io/tags/software/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/tags/software/</guid>
+      <guid>https://gabrielhoffman.github.io/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variancepartition</title>
-      <link>gabrielhoffman.github.io/tags/variancepartition/</link>
+      <link>https://gabrielhoffman.github.io/tags/variancepartition/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/tags/variancepartition/</guid>
+      <guid>https://gabrielhoffman.github.io/tags/variancepartition/</guid>
       <description></description>
     </item>
     

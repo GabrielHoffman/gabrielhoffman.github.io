@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Computational Genomics of the Human Brain</title>
-    <link>gabrielhoffman.github.io/publication/</link>
+    <link>https://gabrielhoffman.github.io/publication/</link>
     <description>Recent content in Publications on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Gabriel Hoffman (Feb 3, 2021)</copyright>
+    <copyright>&amp;copy; 2021 Gabriel Hoffman (April 2, 2021)</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="gabrielhoffman.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gabrielhoffman.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Trans-ethnic eQTL meta-analysis of human brain reveals regulatory architecture and candidate causal variants for brain-related traits</title>
-      <link>gabrielhoffman.github.io/publication/brema/</link>
+      <link>https://gabrielhoffman.github.io/publication/brema/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/brema/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/brema/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis framework and experimental design for evaluating synergy-driving gene expression</title>
-      <link>gabrielhoffman.github.io/publication/ipsc_nat_protocal/</link>
+      <link>https://gabrielhoffman.github.io/publication/ipsc_nat_protocal/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/ipsc_nat_protocal/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/ipsc_nat_protocal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sex differences in the human brain transcriptome of cases with schizophrenia</title>
-      <link>gabrielhoffman.github.io/publication/cmc_sex_2021/</link>
+      <link>https://gabrielhoffman.github.io/publication/cmc_sex_2021/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/cmc_sex_2021/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/cmc_sex_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dream: Powerful differential expression analysis for repeated measures designs</title>
-      <link>gabrielhoffman.github.io/publication/dream/</link>
+      <link>https://gabrielhoffman.github.io/publication/dream/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/dream/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/dream/</guid>
       <description></description>
     </item>
     
     <item>
       <title>decorate: Differential Epigenetic Coregulation Test</title>
-      <link>gabrielhoffman.github.io/publication/decorate/</link>
+      <link>https://gabrielhoffman.github.io/publication/decorate/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/decorate/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/decorate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional Interpretation of Genetic Variants Using Deep Learning Predicts Impact on Epigenome</title>
-      <link>gabrielhoffman.github.io/publication/deepfigv/</link>
+      <link>https://gabrielhoffman.github.io/publication/deepfigv/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/deepfigv/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/deepfigv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CommonMind Consortium provides transcriptomic and epigenomic data for Schizophrenia and Bipolar Disorder</title>
-      <link>gabrielhoffman.github.io/publication/cmc2/</link>
+      <link>https://gabrielhoffman.github.io/publication/cmc2/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/cmc2/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/cmc2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New considerations for hiPSC-based models of neuropsychiatric disorders</title>
-      <link>gabrielhoffman.github.io/publication/mol_psych_2018/</link>
+      <link>https://gabrielhoffman.github.io/publication/mol_psych_2018/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/mol_psych_2018/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/mol_psych_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cell-specific histone modification maps in the human frontal lobe link schizophrenia risk to the neuronal epigenome</title>
-      <link>gabrielhoffman.github.io/publication/epimap_2017/</link>
+      <link>https://gabrielhoffman.github.io/publication/epimap_2017/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/epimap_2017/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/epimap_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping regulatory variants in hiPSC models</title>
-      <link>gabrielhoffman.github.io/publication/ng_nv_2017/</link>
+      <link>https://gabrielhoffman.github.io/publication/ng_nv_2017/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/ng_nv_2017/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/ng_nv_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptional signatures of schizophrenia in hiPSC-derived NPCs and neurons are concordant with signatures from post mortem adult brains</title>
-      <link>gabrielhoffman.github.io/publication/hipsc_2017/</link>
+      <link>https://gabrielhoffman.github.io/publication/hipsc_2017/</link>
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/hipsc_2017/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/hipsc_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Transcriptional Variability in a Large Human iPSC Library Reveals Genetic and Non-genetic Determinants of Heterogeneity</title>
-      <link>gabrielhoffman.github.io/publication/csc_2017/</link>
+      <link>https://gabrielhoffman.github.io/publication/csc_2017/</link>
       <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/csc_2017/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/csc_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>variancePartition: interpreting drivers of variation in complex gene expression studies</title>
-      <link>gabrielhoffman.github.io/publication/variancepartition/</link>
+      <link>https://gabrielhoffman.github.io/publication/variancepartition/</link>
       <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/variancepartition/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/variancepartition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lrgpr: interactive linear mixed model analysis of genome-wide association studies with composite hypothesis testing and regression diagnostics in R</title>
-      <link>gabrielhoffman.github.io/publication/lrgpr/</link>
+      <link>https://gabrielhoffman.github.io/publication/lrgpr/</link>
       <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/lrgpr/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/lrgpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correcting for Population Structure and Kinship Using the Linear Mixed Model: Theory and Extensions</title>
-      <link>gabrielhoffman.github.io/publication/pone_2013/</link>
+      <link>https://gabrielhoffman.github.io/publication/pone_2013/</link>
       <pubDate>Mon, 28 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/pone_2013/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/pone_2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PUMA: A Unified Framework for Penalized Multiple Regression Analysis of GWAS Data</title>
-      <link>gabrielhoffman.github.io/publication/plos_cb_2013/</link>
+      <link>https://gabrielhoffman.github.io/publication/plos_cb_2013/</link>
       <pubDate>Thu, 27 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/publication/plos_cb_2013/</guid>
+      <guid>https://gabrielhoffman.github.io/publication/plos_cb_2013/</guid>
       <description></description>
     </item>
     

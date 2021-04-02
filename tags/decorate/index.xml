@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Decorate on Computational Genomics of the Human Brain</title>
-    <link>gabrielhoffman.github.io/tags/decorate/</link>
+    <link>https://gabrielhoffman.github.io/tags/decorate/</link>
     <description>Recent content in Decorate on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Gabriel Hoffman (Feb 3, 2021)</copyright>
+    <copyright>&amp;copy; 2021 Gabriel Hoffman (April 2, 2021)</copyright>
     <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="gabrielhoffman.github.io/tags/decorate/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gabrielhoffman.github.io/tags/decorate/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>decorate</title>
-      <link>gabrielhoffman.github.io/project/decorate/</link>
+      <link>https://gabrielhoffman.github.io/project/decorate/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/project/decorate/</guid>
+      <guid>https://gabrielhoffman.github.io/project/decorate/</guid>
       <description>Description</description>
     </item>
     

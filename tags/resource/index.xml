@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resource on Computational Genomics of the Human Brain</title>
-    <link>gabrielhoffman.github.io/tags/resource/</link>
+    <link>https://gabrielhoffman.github.io/tags/resource/</link>
     <description>Recent content in Resource on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Gabriel Hoffman (Feb 3, 2021)</copyright>
+    <copyright>&amp;copy; 2021 Gabriel Hoffman (April 2, 2021)</copyright>
     <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="gabrielhoffman.github.io/tags/resource/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gabrielhoffman.github.io/tags/resource/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Brain eQTL meta-analysis</title>
-      <link>gabrielhoffman.github.io/project/brema/</link>
+      <link>https://gabrielhoffman.github.io/project/brema/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/project/brema/</guid>
+      <guid>https://gabrielhoffman.github.io/project/brema/</guid>
       <description>Description</description>
     </item>
     
     <item>
       <title>CommonMind Consortium provides transcriptomic and epigenomic data for Schizophrenia and Bipolar Disorder</title>
-      <link>gabrielhoffman.github.io/project/cmc2_resource/</link>
+      <link>https://gabrielhoffman.github.io/project/cmc2_resource/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/project/cmc2_resource/</guid>
+      <guid>https://gabrielhoffman.github.io/project/cmc2_resource/</guid>
       <description>Description</description>
     </item>
     
     <item>
       <title>DeepFIGV</title>
-      <link>gabrielhoffman.github.io/project/deepfigv/</link>
+      <link>https://gabrielhoffman.github.io/project/deepfigv/</link>
       <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/project/deepfigv/</guid>
+      <guid>https://gabrielhoffman.github.io/project/deepfigv/</guid>
       <description>Description</description>
     </item>
     
     <item>
       <title>Data and code resources for an hiPSC model</title>
-      <link>gabrielhoffman.github.io/project/hipsc_dataset/</link>
+      <link>https://gabrielhoffman.github.io/project/hipsc_dataset/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/project/hipsc_dataset/</guid>
+      <guid>https://gabrielhoffman.github.io/project/hipsc_dataset/</guid>
       <description>Description</description>
     </item>
     
     <item>
       <title>Design hiPSC experiments</title>
-      <link>gabrielhoffman.github.io/project/hipsc_study_design/</link>
+      <link>https://gabrielhoffman.github.io/project/hipsc_study_design/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/project/hipsc_study_design/</guid>
+      <guid>https://gabrielhoffman.github.io/project/hipsc_study_design/</guid>
       <description>Description</description>
     </item>
     
     <item>
       <title>Referance map of human brain epigenome</title>
-      <link>gabrielhoffman.github.io/project/epimap_resource/</link>
+      <link>https://gabrielhoffman.github.io/project/epimap_resource/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/project/epimap_resource/</guid>
+      <guid>https://gabrielhoffman.github.io/project/epimap_resource/</guid>
       <description>Description</description>
     </item>
     
     <item>
       <title>variancePartition</title>
-      <link>gabrielhoffman.github.io/resource/hipsc_study_design/</link>
+      <link>https://gabrielhoffman.github.io/resource/hipsc_study_design/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/resource/hipsc_study_design/</guid>
+      <guid>https://gabrielhoffman.github.io/resource/hipsc_study_design/</guid>
       <description>Description</description>
     </item>
     

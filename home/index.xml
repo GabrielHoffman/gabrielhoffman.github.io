@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Computational Genomics of the Human Brain</title>
-    <link>gabrielhoffman.github.io/home/</link>
+    <link>https://gabrielhoffman.github.io/home/</link>
     <description>Recent content in Homes on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Gabriel Hoffman (Feb 3, 2021)</copyright>
+    <copyright>&amp;copy; 2021 Gabriel Hoffman (April 2, 2021)</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="gabrielhoffman.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gabrielhoffman.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>gabrielhoffman.github.io/home/about/</link>
+      <link>https://gabrielhoffman.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/home/about/</guid>
+      <guid>https://gabrielhoffman.github.io/home/about/</guid>
       <description>Working with the Roussos Lab in the Sklar Division of Psychiatric Genomics, we aim to map the chain of causality from DNA variants through epigenetic variation to clinical phenotype. We use sophisticated statistical models and high performance computing to study the link between genetic risk variants, functional genomics and psychiatric disease.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>gabrielhoffman.github.io/home/research/</link>
+      <link>https://gabrielhoffman.github.io/home/research/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/home/research/</guid>
+      <guid>https://gabrielhoffman.github.io/home/research/</guid>
       <description>Our work focuses on three major research topics
  Statistical and machine learning methods for integrative genomics Genomics of psychiatric disease from post mortem brain collections Induced pluripotent stem cell models of human disease  Ongoing work includes
  Interpretation of non-coding variation and its role in regulatory genomics An epigenomics reference map of the human brain Genetic regulation of histone modification in the human brain Integrative network analysis of the human brain transcriptome  Data: RNA-seq, histone ChIP-seq, ATAC-seq, array genotyping, WES, WGS</description>
@@ -34,46 +34,46 @@
     
     <item>
       <title>Selected Publications</title>
-      <link>gabrielhoffman.github.io/home/publications_selected/</link>
+      <link>https://gabrielhoffman.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>gabrielhoffman.github.io/home/publications_selected/</guid>
+      <guid>https://gabrielhoffman.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>gabrielhoffman.github.io/home/software/</link>
+      <link>https://gabrielhoffman.github.io/home/software/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/home/software/</guid>
+      <guid>https://gabrielhoffman.github.io/home/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>gabrielhoffman.github.io/home/resource/</link>
+      <link>https://gabrielhoffman.github.io/home/resource/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/home/resource/</guid>
+      <guid>https://gabrielhoffman.github.io/home/resource/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborators</title>
-      <link>gabrielhoffman.github.io/home/collabortors/</link>
+      <link>https://gabrielhoffman.github.io/home/collabortors/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/home/collabortors/</guid>
+      <guid>https://gabrielhoffman.github.io/home/collabortors/</guid>
       <description> Panos Roussos Kristen Brennand Eli Stahl Schahram Akbarian CommonMind Consortium PsychENCODE Consortium  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>gabrielhoffman.github.io/home/contact/</link>
+      <link>https://gabrielhoffman.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/home/contact/</guid>
+      <guid>https://gabrielhoffman.github.io/home/contact/</guid>
       <description></description>
     </item>
     

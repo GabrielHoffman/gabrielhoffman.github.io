@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lrgpr on Computational Genomics of the Human Brain</title>
-    <link>gabrielhoffman.github.io/tags/lrgpr/</link>
+    <link>https://gabrielhoffman.github.io/tags/lrgpr/</link>
     <description>Recent content in Lrgpr on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Gabriel Hoffman (Feb 3, 2021)</copyright>
+    <copyright>&amp;copy; 2021 Gabriel Hoffman (April 2, 2021)</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="gabrielhoffman.github.io/tags/lrgpr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gabrielhoffman.github.io/tags/lrgpr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>lrgpr</title>
-      <link>gabrielhoffman.github.io/project/lrgpr/</link>
+      <link>https://gabrielhoffman.github.io/project/lrgpr/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/project/lrgpr/</guid>
+      <guid>https://gabrielhoffman.github.io/project/lrgpr/</guid>
       <description>Description</description>
     </item>
     
     <item>
       <title>lrgpr</title>
-      <link>gabrielhoffman.github.io/software/test_lrgpr/</link>
+      <link>https://gabrielhoffman.github.io/software/test_lrgpr/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>gabrielhoffman.github.io/software/test_lrgpr/</guid>
+      <guid>https://gabrielhoffman.github.io/software/test_lrgpr/</guid>
       <description>Description</description>
     </item>
     
