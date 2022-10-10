@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielhoffman.github.io/home/about/</guid>
-      <description>Working with the Roussos Lab in the Sklar Division of Psychiatric Genomics, we aim to map the chain of causality from DNA variants through epigenetic variation to clinical phenotype. We use sophisticated statistical models and high performance computing to study the link between genetic risk variants, functional genomics and psychiatric disease.</description>
+      <description>As Director of Statistical Neurogenomics in the Center for Disease Neurogenomics at the Icahn School of Medicine at Mount Sinai, my group aims to map the chain of causality from DNA variants through epigenetic variation to clinical phenotype. We develop and apply sophisticated statistical models and high performance computing to study the link between genetic risk variants, functional genomics and neuropsychiatric disease.</description>
     </item>
     
     <item>
@@ -28,8 +28,8 @@
       
       <guid>https://gabrielhoffman.github.io/home/research/</guid>
       <description>Our work focuses on three major research topics
- Statistical and machine learning methods for integrative genomics Genomics of psychiatric disease from post mortem brain collections Induced pluripotent stem cell models of human disease  Ongoing work includes
- Interpretation of non-coding variation and its role in regulatory genomics An epigenomics reference map of the human brain Genetic regulation of histone modification in the human brain Integrative network analysis of the human brain transcriptome  Data: RNA-seq, histone ChIP-seq, ATAC-seq, array genotyping, WES, WGS</description>
+ Genomics of neuropsychiatric disease from post mortem brain collections Statistical methods for single cell and integrative genomics Statistically rigorous, open source software  Ongoing work includes
+ Statistical methods to identify differentially expressed genes from single cell transcripomics data across 100s-1000s of individuals Characterizing genetic regulation of chromatin accessability in the human brain and its role in mediating risk of neuropsychiatric disease Understanding effects of genetic regulation and Alzheimer&amp;rsquo;s disease on gene expression and chromatin accessability in human microglia  Data: Single cell/nucleus RNA-seq, bulk RNA-seq and ATAC-seq, genotyping, WGS</description>
     </item>
     
     <item>
