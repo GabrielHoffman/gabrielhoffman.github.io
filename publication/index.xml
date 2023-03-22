@@ -6,16 +6,25 @@
     <description>Recent content in Publications on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Gabriel Hoffman (Jan 20, 2022)</copyright>
+    <copyright>&amp;copy; 2023 Gabriel Hoffman (March 22, 2023)</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gabrielhoffman.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Efficient differential expression analysis of large-scale single cell transcriptomics data using dreamlet</title>
+      <link>https://gabrielhoffman.github.io/publication/dreamlet/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielhoffman.github.io/publication/dreamlet/</guid>
+      <description>∂</description>
+    </item>
+    
+    <item>
       <title>Comment on: What genes are differentially expressed in individuals with schizophrenia? A systematic review</title>
       <link>https://gabrielhoffman.github.io/publication/scz_mol_psych_2022/</link>
-      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielhoffman.github.io/publication/scz_mol_psych_2022/</guid>
       <description></description>
