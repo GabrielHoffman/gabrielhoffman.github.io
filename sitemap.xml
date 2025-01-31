@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://gabrielhoffman.github.io/project/crumblr/</loc>
+      <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://gabrielhoffman.github.io/project/dreamlet/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -420,7 +429,17 @@
     <url>
     
       <loc>https://gabrielhoffman.github.io/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://gabrielhoffman.github.io/tags/crumblr/</loc>
+      <lastmod>2025-01-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -490,7 +509,7 @@
     <url>
     
       <loc>https://gabrielhoffman.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2025-01-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -530,7 +549,7 @@
     <url>
     
       <loc>https://gabrielhoffman.github.io/tags/software/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2025-01-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
