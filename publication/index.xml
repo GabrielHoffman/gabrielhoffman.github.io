@@ -6,11 +6,29 @@
     <description>Recent content in Publications on Computational Genomics of the Human Brain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2023 Gabriel Hoffman (March 22, 2023)</copyright>
+    <copyright>&amp;copy; 2026 Gabriel Hoffman (May 22, 2026)</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gabrielhoffman.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alzheimer’s disease transcriptional landscape in ex vivo human microglia</title>
+      <link>https://gabrielhoffman.github.io/publication/kosoy_2025/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielhoffman.github.io/publication/kosoy_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell atlas of transcriptomic vulnerability across multiple neurodegenerative and neuropsychiatric diseases</title>
+      <link>https://gabrielhoffman.github.io/publication/psychad_capstone/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielhoffman.github.io/publication/psychad_capstone/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fast, flexible analysis of differences in cellular composition with crumblr</title>
@@ -19,6 +37,15 @@
       
       <guid>https://gabrielhoffman.github.io/publication/crumblr/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient differential expression analysis of large-scale single cell transcriptomics data using dreamlet</title>
+      <link>https://gabrielhoffman.github.io/publication/dreamlet/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabrielhoffman.github.io/publication/dreamlet/</guid>
+      <description>∂</description>
     </item>
     
     <item>
@@ -36,15 +63,6 @@
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://gabrielhoffman.github.io/publication/caqtl/</guid>
-      <description>∂</description>
-    </item>
-    
-    <item>
-      <title>Efficient differential expression analysis of large-scale single cell transcriptomics data using dreamlet</title>
-      <link>https://gabrielhoffman.github.io/publication/dreamlet/</link>
-      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://gabrielhoffman.github.io/publication/dreamlet/</guid>
       <description>∂</description>
     </item>
     
